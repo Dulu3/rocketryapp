@@ -6,8 +6,8 @@ osiągi takiego napędu, na podstawie rozmiaru komory silnika, paliwa oraz jego 
 zacisku krytycznego dyszy.
 
 ## Instalacja
-Po rozpakowaniu projektu w katalgu głownym otwórz konsole poleceń i wpisz polecenie `mvn config verify`.
-Wejdź do katalogu target
+Po rozpakowaniu projektu w katalgu głownym otwórz konsole poleceń i wpisz polecenie `mvn clean verify`.
+Po pomyślnym zbudowaniu aplikacji wywołaj polecenie `java - jar target/rocketryapp-0.0.1-SNAPSHOT.jar`
 
 ## Zdjęcia 
 
