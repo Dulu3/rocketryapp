@@ -1,7 +1,13 @@
 # rocketryapp
 
-REST API wykorzystywane do obliczeń osiągów silnika rakietowego.
+REST API wykorzystywane do dostarczania danych dla interfejsu użytkownika. Aplikacjas wspomaga konstrukcje silnika 
+rakietowego na paliwa stałe, która w łatwy sposób umożliwi użytkownikowi przewidywać 
+osiągi takiego napędu, na podstawie rozmiaru komory silnika, paliwa oraz jego rodzaju i 
+zacisku krytycznego dyszy.
 
-## Instalation
+## Instalacja
+Projekt można zaimportować z gituhba do IDE, skompilować i utworzyć jara.
 
-You can inport project from, compile and generate jar.
+## Zdjęcia 
+
+<img src="readme_src/Screenshot_0.jpg" width="800"/>
