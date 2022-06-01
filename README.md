@@ -10,4 +10,6 @@ Projekt można zaimportować z gituhba do IDE, skompilować i utworzyć jara.
 
 ## Zdjęcia 
 
-<img src="readme_src/Screenshot_0.jpg" width="800"/>
+<img src="readme_src/Screenshot_0.jpg" width="900"/>
+<img src="readme_src/Screenshot_1.jpg" width="900"/>
+<img src="readme_src/Screenshot_2.jpg" width="900"/>
