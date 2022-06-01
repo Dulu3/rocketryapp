@@ -6,7 +6,8 @@ osiągi takiego napędu, na podstawie rozmiaru komory silnika, paliwa oraz jego 
 zacisku krytycznego dyszy.
 
 ## Instalacja
-Projekt można zaimportować z gituhba do IDE, skompilować i utworzyć jara.
+Po rozpakowaniu projektu w katalgu głownym otwórz konsole poleceń i wpisz polecenie `mvn clean verify`.
+Po pomyślnym zbudowaniu aplikacji wywołaj polecenie `java - jar target/rocketryapp-0.0.1-SNAPSHOT.jar`
 
 ## Zdjęcia 
 
